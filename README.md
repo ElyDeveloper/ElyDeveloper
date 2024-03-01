@@ -22,7 +22,7 @@ Welcome to Ely Dev's Code Hub! As a seasoned developer with 6 years of experienc
 - ![Python](https://img.shields.io/badge/-Python-0A556A?logo=Python&logoColor=white)
 
 ### Database
-- ![SQLServer](https://img.shields.io/badge/-SQLServer-0A556A?logo=SQLServer&logoColor=white)
+- ![SqlServer](https://img.shields.io/badge/-SqlServer-A4191E?logo=amazondocumentdb&logoColor=white)
 - ![MySql](https://img.shields.io/badge/-MySql-0A556A?logo=MySql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-4CAF50?logo=mongodb&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/-Firebase-EBBE42?logo=firebase&logoColor=white)
@@ -32,16 +32,31 @@ Welcome to Ely Dev's Code Hub! As a seasoned developer with 6 years of experienc
 - ![Ionic](https://img.shields.io/badge/-Ionic-2F68A6?logo=Ionic&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/-Flutter-4ABBEB?logo=Flutter&logoColor=white)
 
+## Cloud Deployment
+
+  ![Azure](https://img.shields.io/badge/-Azure-2EA1E1?logo=microsoftazure&logoColor=white)
+- Proficient in deploying applications on Microsoft Azure, using services such as Azure App Service, Azure Functions, and Azure SQL Database.
+- Experience in setting up development, testing, and production environments in Azure.
+- Knowledge in implementing monitoring and scalability solutions in Azure Cloud.
+
+
+![WindowsServer](https://img.shields.io/badge/-WindowsServer-193389?logo=microsoft&logoColor=white)
+- Extensive experience in configuring and managing Windows servers in enterprise environments.
+- Ability to deploy services and applications on Windows Server, ensuring system security and performance.
+- Knowledge in managing roles and features of Windows Server to meet business needs.
+
 ## About Ely Dev
 
 Hi there! I'm Gerson Rivera, but you can call me Ely Dev. With 6 years of coding experience, I'm passionate about creating robust and efficient solutions. This repository is a collection of my work, reflecting my expertise in a variety of technologies. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ## Contact
 
-- GitHub: [Ely Dev](https://github.com/ElyDeveloper) 🔗
-- Email: elydeveloperhn@gmail.com 📨
-- LinkedIn: [Gerson Rivera](https://www.linkedin.com/in/eliezer-rivera-8a33281a4/) 🔗
 - Portfolio: [Ely Dev](https://elydeveloper.online/) 🔗
+- GitHub: [Ely Deveveloper](https://github.com/ElyDeveloper)🔗
+
+
+- LinkedIn: [Gerson Rivera](https://www.linkedin.com/in/eliezer-rivera-8a33281a4/) 🔗
+- Email: elydeveloperhn@gmail.com 📨
 
 ## License
 
