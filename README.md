@@ -52,10 +52,6 @@ My goal is continuous growth and meaningful contributions to the software develo
 - Ability to deploy services and applications on Windows Server, ensuring system security and performance.
 - Knowledge in managing roles and features of Windows Server to meet business needs.
 
-## About Ely Dev
-
-Hi there! I'm Gerson Rivera, but you can call me Ely Dev. With 6 years of coding experience, I'm passionate about creating robust and efficient solutions. This repository is a collection of my work, reflecting my expertise in a variety of technologies. Feel free to explore and reach out if you have any questions or collaboration ideas!
-
 ## Contact
 
 - Portfolio: [Ely Dev](https://elydeveloper.online/) 🔗
