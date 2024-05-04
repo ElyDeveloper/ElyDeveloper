@@ -4,8 +4,15 @@
 </div>
 
 ## Overview
+---
 
-Welcome to Ely Dev's Code Hub! As a seasoned developer with 6 years of experience, I have expertise in a wide range of technologies. This repository showcases my skills in frontend development using ⚙️ **Angular**, ⚙️ **React**, and ⚙️ **Vue**, backend development with ⚙️ **NodeJS**, ⚙️ **TypeScript**, ⚙️ **JavaScript**, ⚙️ **C#**, and ⚙️ **Python**, as well as mobile development with 📱 **Ionic** and 📱 **Flutter**. Additionally, I am well-versed in working with various databases including ⚙️ **SQL Server**, ⚙️ **MySQL**, ⚙️ **MongoDB**, and ⚙️ **Firebase**.
+Welcome to Ely Dev's Code Hub! With 6 years of experience, I focus on crafting innovative solutions and efficient code. This repository showcases a variety of projects, spanning web and mobile applications, all designed with a user-centric approach and high code quality.
+
+My expertise covers both frontend and backend development, with a knack for quickly adapting to new challenges. I also excel in designing and implementing robust, scalable databases.
+
+My goal is continuous growth and meaningful contributions to the software development world. Explore my projects and feel free to reach out with any inquiries or collaboration opportunities!
+
+---
 
 ## Technologies
 
