@@ -69,86 +69,188 @@ My goal is continuous growth and making meaningful contributions to the software
 - Ability to deploy services and applications while ensuring system security and performance
 - Knowledge in managing roles and features to meet business needs
 
-## 📂 Featured Projects
+## 📂 Portfolio de Proyectos
 
 <div align="center">
 
 <table>
-<tr>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/01.webp" alt="Fresi Notas" width="100%" style="border-radius: 10px;">
-    <h3>Fresi Notas - Web Page</h3>
-    <p>Página bibliográfica de aplicación Fresi Notas</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <img src="https://img.shields.io/badge/-TypeScript-2F68A6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
-    </p>
-    <a href="https://fresi-page.web.app"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
-  </td>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/03.webp" alt="Fresi Notas App" width="100%" style="border-radius: 10px;">
-    <h3>Fresi Notas - Mobile App</h3>
-    <p>Aplicación móvil de Apuntes, Fresi Notas</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
-      <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-      <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-    </p>
-    <a href="https://play.google.com/store/apps/details?id=elydev.fresinotas.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
-    <a href="https://apps.apple.com/ve/app/fresi-notas-bloc-de-notas/id6483685358"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
-  </td>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/10.webp" alt="Uvi Notas" width="100%" style="border-radius: 10px;">
-    <h3>Uvi Notas - Mobile App</h3>
-    <p>Aplicación móvil de Apuntes, Uvi Notas</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Flutter-4ABBEB?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-    </p>
-    <a href="https://play.google.com/store/apps/details?id=com.elydev.uvi_notas"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
-    <a href="https://apps.apple.com/ve/app/uvi-notas-bloc-de-notas/id6514274523"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
-  </td>
-</tr>
-<tr>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/02.webp" alt="Visión Rey de Reyes Web" width="100%" style="border-radius: 10px;">
-    <h3>Visión Rey de Reyes - Web App</h3>
-    <p>Página web de gestión de miembros (Base de Datos)</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-      <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    </p>
-    <a href="https://afirmacion-70c45.web.app/"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
-  </td>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/11.webp" alt="Visión Rey de Reyes App" width="100%" style="border-radius: 10px;">
-    <h3>Visión Rey de Reyes - Mobile App</h3>
-    <p>Aplicación móvil de gestión de miembros (Base de Datos)</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
-      <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-      <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-    </p>
-    <a href="https://play.google.com/store/apps/details?id=www.elydev.reydereyesvision"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
-    <a href="https://apps.apple.com/hn/app/visión-rey-de-reyes/id6742387446"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
-  </td>
-  <td width="33%" align="center">
-    <img src="https://www.elydev.online/projects/08.webp" alt="PDownloader" width="100%" style="border-radius: 10px;">
-    <h3>PDownloader - Web App</h3>
-    <p>Aplicación web de descarga de videos multiplataforma</p>
-    <p>
-      <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
-      <img src="https://img.shields.io/badge/-Node.js-559846?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-    </p>
-    <a href="https://downloader-pin.web.app"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
-  </td>
-</tr>
+<tbody>
+  <!-- ROW 1 -->
+  <tr>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/01.webp" alt="Fresi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Fresi Notas - Web Page</h3>
+        <p align="center">Página bibliográfica de aplicación Fresi Notas</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+          <img src="https://img.shields.io/badge/-TypeScript-2F68A6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://fresi-page.web.app"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/02.webp" alt="Visión Rey de Reyes Web" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Visión Rey de Reyes - Web App</h3>
+        <p align="center">Página web de gestión de miembros (Base de Datos)</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+          <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://afirmacion-70c45.web.app/"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/08.webp" alt="PDownloader" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">PDownloader - Web App</h3>
+        <p align="center">Aplicación web de descarga de videos multiplataforma</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Node.js-559846?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://downloader-pin.web.app"><img src="https://img.shields.io/badge/-View_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"></a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <!-- ROW 2 -->
+  <tr>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/10.webp" alt="Uvi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Uvi Notas - Mobile App</h3>
+        <p align="center">Aplicación móvil de Apuntes, Uvi Notas</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Flutter-4ABBEB?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=com.elydev.uvi_notas"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+          <a href="https://apps.apple.com/ve/app/uvi-notas-bloc-de-notas/id6514274523"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/11.webp" alt="Visión Rey de Reyes App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Visión Rey de Reyes - Mobile App</h3>
+        <p align="center">Aplicación móvil de gestión de miembros (Base de Datos)</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=www.elydev.reydereyesvision"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+          <a href="https://apps.apple.com/hn/app/visión-rey-de-reyes/id6742387446"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/03.webp" alt="Fresi Notas App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Fresi Notas - Mobile App</h3>
+        <p align="center">Aplicación móvil de Apuntes, Fresi Notas</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=elydev.fresinotas.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+          <a href="https://apps.apple.com/ve/app/fresi-notas-bloc-de-notas/id6483685358"><img src="https://img.shields.io/badge/-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <!-- ROW 3 -->
+  <tr>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/04.webp" alt="Power Descargador" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Power Descargador - Mobile App</h3>
+        <p align="center">Aplicación móvil de descarga de videos multiplataforma</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Node.js-559846?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=elydev.pdownloader.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/05.webp" alt="Karapan" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Karapan - Mobile App</h3>
+        <p align="center">Aplicación de memes (Red Social)</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=com.elydev.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/06.webp" alt="Riamirr" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">Riamirr - Mobile App</h3>
+        <p align="center">Aplicación de encuestas y formularios</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=elydev.riamirr.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <!-- ROW 4 -->
+  <tr>
+    <td width="33%" valign="top">
+      <div style="height: 450px; overflow: hidden;">
+        <img src="https://www.elydev.online/projects/07.webp" alt="X-O" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <h3 align="center">X-O - Mobile App</h3>
+        <p align="center">Juego conocido como X-O o Tic Tac Toe</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-Ionic-2F68A6?style=flat-square&logo=Ionic&logoColor=white" alt="Ionic">
+          <img src="https://img.shields.io/badge/-Angular-E41152?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+          <img src="https://img.shields.io/badge/-Firebase-EBBE42?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+        </div>
+        <div align="center" style="margin-top: 12px;">
+          <a href="https://play.google.com/store/apps/details?id=elydev.xo.app"><img src="https://img.shields.io/badge/-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+        </div>
+      </div>
+    </td>
+    <td colspan="2" align="center" valign="middle">
+      <div style="padding: 30px;">
+        <h2>¿Interesado en ver más?</h2>
+        <p style="font-size: 18px; margin-bottom: 20px;">Visita mi portafolio completo para explorar todos mis proyectos en detalle</p>
+        <a href="https://www.elydev.online/" target="_blank"><img src="https://img.shields.io/badge/-Visitar_Portafolio_Completo-212121?style=for-the-badge&logo=react&logoColor=white" alt="View Full Portfolio"></a>
+      </div>
+    </td>
+  </tr>
+</tbody>
 </table>
-
-<a href="https://www.elydev.online/" target="_blank"><img src="https://img.shields.io/badge/-View_All_Projects-212121?style=for-the-badge&logo=react&logoColor=white" alt="View All Projects"></a>
 
 </div>
 
