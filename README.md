@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.elydev.online/elydev-vertical.webp" alt="Ely Dev Logo" width="150" height="150">
+    <img src="https://www.elydev.online/elydev.webp" alt="Ely Dev Logo" width="150" height="150">
     <h1>Ely Dev's Code Hub</h1>
     <p>Crafting innovative solutions with efficient, high-quality code</p>
     <p>
