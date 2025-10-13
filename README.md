@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-With **6 years of experience** in software development, I focus on crafting innovative solutions and writing efficient code. My expertise spans both frontend and backend development, with a talent for quickly adapting to new challenges. I also excel in designing and implementing robust, scalable databases.
+With **8 years of experience** in software development, I focus on crafting innovative solutions and writing efficient code. My expertise spans both frontend and backend development, with a talent for quickly adapting to new challenges. I also excel in designing and implementing robust, scalable databases.
 
 My goal is continuous growth and making meaningful contributions to the software development world. Explore my projects and feel free to reach out with any inquiries or collaboration opportunities!
 
