@@ -79,7 +79,7 @@ My goal is continuous growth and making meaningful contributions to the software
   <tr>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/01.webp" alt="Fresi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/01.webp" alt="Fresi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Fresi Notas - Web Page</h3>
         <p align="center">Página bibliográfica de aplicación Fresi Notas</p>
         <div align="center">
@@ -94,7 +94,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/02.webp" alt="Visión Rey de Reyes Web" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/02.webp" alt="Visión Rey de Reyes Web" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Visión Rey de Reyes - Web App</h3>
         <p align="center">Página web de gestión de miembros (Base de Datos)</p>
         <div align="center">
@@ -109,7 +109,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/08.webp" alt="PDownloader" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/08.webp" alt="PDownloader" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">PDownloader - Web App</h3>
         <p align="center">Aplicación web de descarga de videos multiplataforma</p>
         <div align="center">
@@ -128,7 +128,7 @@ My goal is continuous growth and making meaningful contributions to the software
   <tr>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/10.webp" alt="Uvi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/10.webp" alt="Uvi Notas" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Uvi Notas - Mobile App</h3>
         <p align="center">Aplicación móvil de Apuntes, Uvi Notas</p>
         <div align="center">
@@ -143,7 +143,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/11.webp" alt="Visión Rey de Reyes App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/11.webp" alt="Visión Rey de Reyes App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Visión Rey de Reyes - Mobile App</h3>
         <p align="center">Aplicación móvil de gestión de miembros (Base de Datos)</p>
         <div align="center">
@@ -159,7 +159,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/03.webp" alt="Fresi Notas App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/03.webp" alt="Fresi Notas App" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Fresi Notas - Mobile App</h3>
         <p align="center">Aplicación móvil de Apuntes, Fresi Notas</p>
         <div align="center">
@@ -179,7 +179,7 @@ My goal is continuous growth and making meaningful contributions to the software
   <tr>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/04.webp" alt="Power Descargador" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/04.webp" alt="Power Descargador" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Power Descargador - Mobile App</h3>
         <p align="center">Aplicación móvil de descarga de videos multiplataforma</p>
         <div align="center">
@@ -194,7 +194,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/05.webp" alt="Karapan" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/05.webp" alt="Karapan" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Karapan - Mobile App</h3>
         <p align="center">Aplicación de memes (Red Social)</p>
         <div align="center">
@@ -209,7 +209,7 @@ My goal is continuous growth and making meaningful contributions to the software
     </td>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/06.webp" alt="Riamirr" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/06.webp" alt="Riamirr" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">Riamirr - Mobile App</h3>
         <p align="center">Aplicación de encuestas y formularios</p>
         <div align="center">
@@ -228,7 +228,7 @@ My goal is continuous growth and making meaningful contributions to the software
   <tr>
     <td width="33%" valign="top">
       <div style="height: 450px; overflow: hidden;">
-        <img src="https://www.elydev.online/projects/07.webp" alt="X-O" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
+        <img src="https://soydeveloper.com/projects/07.webp" alt="X-O" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;">
         <h3 align="center">X-O - Mobile App</h3>
         <p align="center">Juego conocido como X-O o Tic Tac Toe</p>
         <div align="center">
@@ -258,7 +258,7 @@ My goal is continuous growth and making meaningful contributions to the software
 
 <div align="center">
 <p>
-  <a href="https://www.elydev.online/"><img src="https://img.shields.io/badge/Portfolio-elydev.online-brightgreen?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://soydeveloper.com/"><img src="https://img.shields.io/badge/Portfolio-elydev.online-brightgreen?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://github.com/ElyDeveloper"><img src="https://img.shields.io/badge/GitHub-ElyDeveloper-black?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/eliezer-rivera-8a33281a4/"><img src="https://img.shields.io/badge/LinkedIn-Gerson_Rivera-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:elydeveloperhn@gmail.com"><img src="https://img.shields.io/badge/Email-elydeveloperhn@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
