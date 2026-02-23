@@ -245,7 +245,7 @@ My goal is continuous growth and making meaningful contributions to the software
       <div style="padding: 30px;">
         <h2>¿Interesado en ver más?</h2>
         <p style="font-size: 18px; margin-bottom: 20px;">Visita mi portafolio completo para explorar todos mis proyectos en detalle</p>
-        <a href="https://www.elydev.online/" target="_blank"><img src="https://img.shields.io/badge/-Visitar_Portafolio_Completo-212121?style=for-the-badge&logo=react&logoColor=white" alt="View Full Portfolio"></a>
+        <a href="https://soydeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-Visitar_Portafolio_Completo-212121?style=for-the-badge&logo=react&logoColor=white" alt="View Full Portfolio"></a>
       </div>
     </td>
   </tr>
