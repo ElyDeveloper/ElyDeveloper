@@ -273,8 +273,12 @@ I'm driven by continuous growth and meaningful contributions to the software dev
 
 <div align="center">
 
-![Ely's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElyDeveloper&show_icons=true&hide_border=true&theme=transparent&icon_color=2EA043&title_color=2EA043)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyDeveloper&layout=compact&hide_border=true&theme=transparent&title_color=2EA043)
+<a href="https://github.com/ElyDeveloper">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElyDeveloper&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&icon_color=2EA043&title_color=2EA043&text_color=C9D1D9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ElyDeveloper">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyDeveloper&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9" alt="Top Languages" />
+</a>
 
 </div>
 
