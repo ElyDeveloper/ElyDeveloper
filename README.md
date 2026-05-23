@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E+Hola%2C+soy+Eliezer_;%3E+Desarrollador+de+Software_;%3E+8%2B+a%C3%B1os+en+c%C3%B3digo_;%3E+Full+Stack+%7C+M%C3%B3vil+%7C+Cloud_&font=Fira%20Code&weight=600&size=26&pause=900&color=39FF14&center=true&vCenter=true&width=540&height=50&letterSpacing=1px" alt="typing">
 </h1>
 
-<img src="https://img.shields.io/badge/STATUS-DISPONIBLE-39FF14?style=flat-square&labelColor=161B22"> &nbsp;
-<img src="https://img.shields.io/badge/UBICACI%C3%93N-HONDURAS_🇭🇳-00E5FF?style=flat-square&labelColor=161B22"> &nbsp;
-<img src="https://img.shields.io/badge/EXPERIENCIA-8%2B_A%C3%91OS-39FF14?style=flat-square&labelColor=161B22">
+<img src="https://img.shields.io/badge/Disponible-1A1F26?style=flat-square&logo=statuspage&logoColor=39FF14"> &nbsp;
+<img src="https://img.shields.io/badge/Honduras-1A1F26?style=flat-square&logo=googlemaps&logoColor=00E5FF"> &nbsp;
+<img src="https://img.shields.io/badge/8%2B_a%C3%B1os_de_experiencia-1A1F26?style=flat-square&logo=awesomelists&logoColor=39FF14">
 
 <br><br>
 
