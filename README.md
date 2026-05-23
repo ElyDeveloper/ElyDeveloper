@@ -7,7 +7,7 @@
 </h1>
 
 <img src="https://img.shields.io/badge/STATUS-DISPONIBLE-39FF14?style=flat-square&labelColor=161B22"> &nbsp;
-<img src="https://img.shields.io/badge/UBICACI%C3%93N-HONDURAS_%F0%9F%87%AD%F0%9F%87%B3-00E5FF?style=flat-square&labelColor=161B22"> &nbsp;
+<img src="https://img.shields.io/badge/UBICACI%C3%93N-HONDURAS_🇭🇳-00E5FF?style=flat-square&labelColor=161B22"> &nbsp;
 <img src="https://img.shields.io/badge/EXPERIENCIA-8%2B_A%C3%91OS-39FF14?style=flat-square&labelColor=161B22">
 
 <br><br>
